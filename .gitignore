@@ -1,0 +1,7 @@
+/Release
+/WormKnot/Release
+/*.db
+/.vs
+/WormKnot/x64
+/x64
+/*.opendb
